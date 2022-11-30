@@ -1,0 +1,60 @@
+/* Body */
+body {
+  text-align: center;
+  -webkit-text-decoration: solid;
+          text-decoration: solid;
+  background-size: cover;
+  position: relative;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0;
+  font-family: "Playfair+Display", sans-serif;
+}
+
+/* Header */
+.splash {
+  border: solid 1px #080000;
+  background-color: #568fa5;
+}
+
+.page-title {
+  font-size: 50px;
+  margin-top: 30px;
+}
+
+.page-subtitle {
+  margin-bottom: 40px;
+  font-size: 30px;
+  margin-top: 20px;
+}
+
+/* Rules */
+.rules {
+  border: solid 1px #030000;
+  background-color: #df634b;
+  font-weight: bold;
+}
+
+.rules-title {
+  font-size: 35px;
+}
+
+/* Game */
+.game {
+  border: solid 1px #030000;
+  background-color: #8d8f31;
+}
+
+#buttons {
+  margin-bottom: 20px;
+}
+
+.choice p {
+  font-weight: bold;
+}
+
+.result p {
+  font-weight: bold;
+}
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3Nhc3Mvc3R5bGUuc2NzcyIsInN0eWxlLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSxTQUFBO0FBQ0E7RUFDSSxrQkFBQTtFQUNBLDhCQUFBO1VBQUEsc0JBQUE7RUFDQSxzQkFBQTtFQUNBLGtCQUFBO0VBQ0EsV0FBQTtFQUNBLGNBQUE7RUFDQSxVQUFBO0VBQ0EsMkNBQUE7QUNDSjs7QURFQSxXQUFBO0FBQ0E7RUFDSSx5QkFBQTtFQUNBLHlCQUFBO0FDQ0o7O0FERUE7RUFDSSxlQUFBO0VBQ0EsZ0JBQUE7QUNDSjs7QURDQTtFQUNJLG1CQUFBO0VBQ0EsZUFBQTtFQUNBLGdCQUFBO0FDRUo7O0FEQ0EsVUFBQTtBQUNBO0VBQ0kseUJBQUE7RUFDQSx5QkFBQTtFQUNBLGlCQUFBO0FDRUo7O0FEQ0E7RUFDSSxlQUFBO0FDRUo7O0FEQ0EsU0FBQTtBQUNBO0VBQ0kseUJBQUE7RUFDQSx5QkFBQTtBQ0VKOztBRENBO0VBQ0ksbUJBQUE7QUNFSjs7QURDQTtFQUNJLGlCQUFBO0FDRUo7O0FEQ0E7RUFDSSxpQkFBQTtBQ0VKIiwiZmlsZSI6InN0eWxlLmNzcyJ9 */

@@ -39,7 +39,7 @@ function displayResult(argPlayerMove, argComputerMove) {
   console.log('wywołano funkcję displayResults z argumentami: ' + argPlayerMove + ', ' + argComputerMove);
   if (argPlayerMove == 'papier' && argComputerMove == 'kamień' || argPlayerMove == 'nożyce' && argComputerMove == 'papier' || argPlayerMove == 'kamień' && argComputerMove == 'nożyce') {
     printMessage('Wygrywasz!');
-    
+
   } else if (argPlayerMove == argComputerMove) {
     printMessage('Remis!');
   } else {
